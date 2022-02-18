@@ -1,0 +1,4 @@
+pkuseg
+pandas
+rich
+python-dateutil
