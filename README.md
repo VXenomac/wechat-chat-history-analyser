@@ -35,5 +35,5 @@ python analyser.py
 
 运行完后你会得到如下的结果：
 
-![](https://xyzlab.oss-cn-hangzhou.aliyuncs.com/blog/m2F2wP.jpeg)
+![](https://raw.githubusercontent.com/VXenomac/wechat-chat-history-analyser/main/assets/demo.jpeg)
 
